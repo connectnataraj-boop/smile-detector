@@ -21,6 +21,7 @@ env/
 # Data & models (large binary files — store in DVC or Git LFS if needed)
 data/smile/
 data/non_smile/
+data/test/
 *.pkl
 *.joblib
 
